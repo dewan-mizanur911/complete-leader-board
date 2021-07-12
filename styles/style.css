@@ -227,6 +227,9 @@ header{
     .players,.blogs{
         grid-template-columns: repeat(1,1fr);
     }
+    .blog-info h2{
+        text-align: center;
+    }
     /* Top players and top blogs section style end  */
 
     /* course section started  */
