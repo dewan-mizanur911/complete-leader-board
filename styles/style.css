@@ -252,6 +252,7 @@ header{
          /* Header styles start */
     header,.container{
         width: 100%;
+        padding: 0;
     }
     /* Header style end  */
 
